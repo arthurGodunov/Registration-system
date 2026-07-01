@@ -1,5 +1,5 @@
 # Registrations-System
-Diese Webanwendung erlaubt die **Registrierung** von Benutzern, nach der Registrierung bleibt der Nutzer **automatisch eingeloggt**. Die Anwendung hat ein **Hacker-Thema** und **simuliert** Ladeprozesse, die nur eine visuelle Darstellung sind und **keine Gefahr** halten. Das Projekt wird aktiv **weiterentwickelt** und **erweitert**.
+Diese Webanwendung erlaubt die **Registrierung** von Benutzern, nach der Registrierung bleibt der Nutzer **automatisch eingeloggt**. Die Anwendung hat eine **Hacker-thematisch** gestaltete Oberfläche und **simuliert** Ladeprozesse, die nur eine visuelle Darstellung sind und **keine Gefahr** darstellen. Das Projekt wird aktiv **weiterentwickelt** und **erweitert**.
 
 ## Funktionen
 - Registrierung von Nutzern
@@ -20,5 +20,8 @@ Diese Webanwendung erlaubt die **Registrierung** von Benutzern, nach der Registr
 
 ## Was habe ich gelernt?
 - Arbeit mit MySQL-Datenbanken
-- Entwicklung serverseitiger mit PHP
-- Gestaltungen von Webanwendungen im Dark-Mode
+- Entwicklung serverseitiger Logik mit PHP
+- Gestaltung von Webanwendungen im Dark-Mode
+- Umgang mit asynchronen Funktionen und Promises
+- Strukturierte Arbeit mit Objekten
+- Kontrollierte Ablaufsteuerung von Programmen
