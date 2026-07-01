@@ -1,2 +1,13 @@
-# Registration-system
-A PHP and MySQL registration website with interactive UI elements.
+# Registrations-System
+beschreibung...
+
+## Funktionen
+...
+
+## Technologien & Tools
+...
+
+## Screenshots
+...
+
+## Was habe ich gelernt?
