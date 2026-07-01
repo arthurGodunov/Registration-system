@@ -16,7 +16,12 @@ Diese Webanwendung erlaubt die **Registrierung** von Benutzern, nach der Registr
 5. MySQL
 
 ## Screenshots
-...
+### Startseite
+![Startseite](Screenshots/home.png)
+### Simulierter Ladeprozess
+![Ladeprozess](Screenshots/loading.png)
+### Registrierung
+![Registrierung](Screenshots/Register.png)
 
 ## Was habe ich gelernt?
 - Arbeit mit MySQL-Datenbanken
